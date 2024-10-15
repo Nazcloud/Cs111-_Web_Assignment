@@ -1,0 +1,17 @@
+/*Nazareth Hill October 15th added a background image to the body*/
+body {background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/54/Painting_brushes.jpg);}
+/*Nazareth Hill October 15th changed the background color to antiquewhite*/ 
+body {
+  background-color: antiquewhite;
+}
+/* Nazareth Hill October 15th changed the 1st heading color to rebeccapurple times new roman size 50px */
+h1 {
+     font-family: "times new roman", Arial, sans-serif;
+     color: rebeccapurple;
+     font-size: 50px;
+   }
+/* Nazareth Hill October 15th changed the font color to darkslategrey times new roman size 20p*/
+p {
+  font-family: 'Times New Roman', Times, serif;
+  color: darkslategrey;
+  font-size: 20px; }
